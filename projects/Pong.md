@@ -11,5 +11,3 @@ labels:
 summary: I made my own customized replica of Pong in ICS 111 with Eclipse as my IDE.
 ---
 
-
-
