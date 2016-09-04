@@ -6,10 +6,10 @@
     "email": "chenkk@hawaii.edu",
     "phone": "",
     "website": "https://kendrickchen.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96817",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -20,21 +20,26 @@
         "username": "chenkk",
         "url": "http://github.com/kendrickchen"
       }
+      {
+        "network": "LinkedIn",
+        "username": "Kendrick Chen",
+        "url": "https://www.linkedin.com/in/kendrick-chen-028293124?trk=hp-identity-name"
+      }
     ]
   },
   "interests": [
     {
-      "name": "Programming",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Volunteer Work",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Personal development",
       "keywords": [
       ]
     }
@@ -50,12 +55,14 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Software",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Git/GitHub",
-        "g++",
+        "FileMaker Pro",
+        "QuickBooks",
+        "Eclipse",
+        "SSH",
+        "Microsoft Office"
       ]
     }
   ],
@@ -66,7 +73,7 @@
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.23",
       "courses": [
         {
           "Computer courses": "ICS111, ICS211, ICS212, ICS141, ICS241, ICS311, ICS321", 
@@ -77,49 +84,71 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Regal Bakery",
+      "position": "Cashier",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "August 2014",
+      "endDate": "November 2014",
+      "summary": "Worked as a cashier at Regal Bakery with assistance towards food preparation.",
       "highlights": [
         
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Out There Sales",
+      "position": "Office Assistant",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "July 2016",
+      "endDate": "Ongoing",
+      "summary": "Manage records of received inventory, shipments and deliveries. Prepare inventory to be shipped for retail sale. Lead designer and developer of company website (in development phase).",
       "highlights": [
-      
       ]
+    },
+    
+    {
+      "company": "UH Manoa Productions",
+      "position": "Camera Operator/Editor",
+      "website": "",
+      "startDate": "May 2016",
+      "endDate": "Ongoing",
+      "summary": "Assist in recording and editing of promotional videos related to UH Manoa Productions.",
+      "highlights": [
+        ]
     }
   ],
   "volunteer": [
     {
-
+      "type": "High School",
+      "organization": "Leo Club"
+      "duration": "2011-2014",
+      "summary": "Participated in various community events."
     },
     {
-
+      "type": "High School",
+      "organization": "Green Club",
+      "duration": "2012-2013",
+      "summary": "Assisted in restoration of school greenhouse."
     }
   ],
   "awards": [
     {
-      "title": "",
+      "title": "Roosevelt High School Honor Roll",
+      "date": "",
+      "awarder": "Roosevelt High School",
+      "summary": "Maintain a GPA of 3.5 or higher throughout the school year."
+    },
+    {
+      "title": "AP Scholar",
       "date": "",
       "awarder": "",
       "summary": ""
     },
     {
-      "title": "",
+      "title": "Lions' Young Leaders in Service Award (50 Hours of Community Service over 12-Months) ",
       "date": "",
-      "awarder": "",
-      "summary": ""
-    }
+      "awarder": "Leo Club",
+      "summary": "Participate in at least 50 hours of community service within a 12 month timeframe."
+    }  
   ],
   "references": [
     {
