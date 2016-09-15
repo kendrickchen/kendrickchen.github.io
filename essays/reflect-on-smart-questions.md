@@ -8,9 +8,11 @@ labels:
   - Reflection
   - Learning
 ---
-"Bad" Question: http://stackoverflow.com/questions/39400092/xcode-support-for-c
+"Bad" Question: 
+http://stackoverflow.com/questions/39400092/xcode-support-for-c
 
-"Good" Question: http://stackoverflow.com/questions/39172306/can-a-line-of-python-code-know-its-indentation-nesting-level
+"Good" Question: 
+http://stackoverflow.com/questions/39172306/can-a-line-of-python-code-know-its-indentation-nesting-level
 
 Smart questions are important for software engineers because the process of learning and development is evergrowing due to the sheer amount of problems that they will face over time. There will be difficult questions that will take up significant amounts of time and this can lead to inefficiencies in use of time when developing a program if the question deals with something of a rather small and isolated scope that even those that aren't working on your project can analyze and get a hold of the problem at hand. Luckily, there are online forums available that dedicate themselves to answering other peoples' questions in order to help them solve a problem. However, in order to receive effective answers and comments from the community, the individual that is asking the question must be concise and show intent that they are willing to learn rather than simply take answers.
 
