@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kendrick Chen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://kendrickchen.github.io/images/1232406741.png",
+    "email": "chenkk@hawaii.edu",
+    "phone": "",
+    "website": "https://kendrickchen.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kendrickchen",
+        "url": "http://github.com/kendrickchen"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "LinkedIn",
+        "username": "Kendrick Chen",
+        "url": "https://www.linkedin.com/in/kendrick-chen-028293124?trk=hp-identity-name"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Volunteer Work",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Personal development",
       "keywords": [
       ]
     }
@@ -64,101 +52,103 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Software",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "FileMaker Pro",
+        "QuickBooks",
+        "Eclipse",
+        "SSH",
+        "Microsoft Office",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.23",
       "courses": [
+        {
+          "Computer courses": "ICS111, ICS211, ICS212, ICS141, ICS241, ICS311, ICS321", 
+          
+        }
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Regal Bakery",
+      "position": "Cashier",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "August 2014",
+      "endDate": "November 2014",
+      "summary": "Worked as a cashier at Regal Bakery with assistance towards food preparation.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Out There Sales",
+      "position": "Office Assistant",
+      "website": "",
+      "startDate": "July 2016",
+      "endDate": "Ongoing",
+      "summary": "Manage records of received inventory, shipments and deliveries. Prepare inventory to be shipped for retail sale. Lead designer and developer of company website (in development phase).",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
+    },
+    
+    {
+      "company": "UH Manoa Productions",
+      "position": "Camera Operator/Editor",
+      "website": "",
+      "startDate": "May 2016",
+      "endDate": "Ongoing",
+      "summary": "Assist in recording and editing of promotional videos related to UH Manoa Productions.",
+      "highlights": [
+        ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      
+      "organization": "Leo Club",
+      "duration": "2011-2014",
+      "summary": "Participated in various community events."
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      
+      "organization": "Green Club",
+      "duration": "2012-2013",
+      "summary": "Assisted in restoration of school greenhouse."
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Roosevelt High School Honor Roll",
+      "date": "",
+      "awarder": "Roosevelt High School",
+      "summary": "Maintain a GPA of 3.5 or higher throughout the school year."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "AP Scholar",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Lions' Young Leaders in Service Award (50 Hours of Community Service over 12-Months) ",
+      "date": "",
+      "awarder": "Leo Club",
+      "summary": "Participate in at least 50 hours of community service within a 12 month timeframe."
+    }  
   ],
   "references": [
     {
