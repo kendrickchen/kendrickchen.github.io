@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Local Portfolio Management
 date: 2016-09-13
 labels:
