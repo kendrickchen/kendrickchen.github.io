@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Configuration Management: The Key to Collaboration
+title: Configuration Management- The Key to Collaboration
 date: 2016-09-13
 labels:
   - Portfolio
