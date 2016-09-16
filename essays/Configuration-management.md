@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Configuration Management: The Key to Collaboration
 date: 2016-09-13
 labels:
   - Portfolio
   - Management
-  - Reflection
---- 
-
+---
 ##Collaboration
 Collaboration is highly important in the software engineering world as many of today's professionals are dealing with large projects that require a lot of man and brainpower in order to develop great innovations that build upon prior innovations. These large projects are typically hard to control as there could be tens, if not, hundreds of programmers working on a single project at once. With all these individuals constantly making changes, it can be difficult to find, isolate, or refer to code when it has been changed. Luckily, configuration management systems were iomplemented to solve this problem and this is where git comes in. 
 ##Why is this important?
