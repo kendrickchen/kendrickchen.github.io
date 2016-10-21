@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Thoughts on Meteor
+title: Thoughts On Meteor
 date: 2016-10-20
 labels:
   - Meteor
