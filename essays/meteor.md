@@ -9,9 +9,6 @@ labels:
   - Learning
   - Reflection
 ---
-There is definitely an initial learning curve with Meteor. What did you find difficult? What did you find easy? What did you find cool and interesting?
-
-Meteor is an example of a modern, internet-based, client-server application architecture. What are your first impressions of Meteor as an application architecture?
 ## Hit By Meteor
 
   Meteor is definitely the most difficult thing we've gone over in class so far as it had a very steep learning curve. Though it still made use of our knowledge gained thus far, the concepts behind Meteor and client-server applications were still fairly difficult to grasp. Even with the difficulties, Meteor still turned out to be a cool application as we hadn't seen the client and server working synchronously where both sides experience the same changes at the same time without needing to refresh. This proved to be very convenient when debugging or testing out features as you could see the changes updated automatically. It was also pretty cool being able to use terminal to use as a debugging tool as it gives pertinent information when rebuilding the application after an update.
